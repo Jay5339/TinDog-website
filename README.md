@@ -1,5 +1,8 @@
-# TinDog-website
+Project: TinDog-website
 
-Website using HTML, CSS and Bootstrap.
+link: https://jay5339.github.io/TinDog-website/
 
-This project I created while learning HTML, CSS from Udemy Bootcamp course.
+
+This project I created while learning HTML, CSS from Udemy Bootcamp course. This website is totally reponsive website.
+
+HTML, CSS, Bootstrap.
